@@ -6,7 +6,7 @@ deploy:
   buildpack: nodejs
   skip_cleanup: true
   api_key:
-    secure: $HEROKU_API_KEY
+    secure: HEROKU_API_KEY
   app: ramoura-pingpong-service
   on:
     all_branches: true
