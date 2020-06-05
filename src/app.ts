@@ -1,6 +1,7 @@
-import * as express from 'express'
-import * as cors from 'cors'
 import routes from './routes'
+
+import cors = require('cors');
+import express = require('express');
 
 class App {
     public express: express.Application

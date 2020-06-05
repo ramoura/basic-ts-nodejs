@@ -5,5 +5,4 @@ const routes = Router()
 
 routes.get('/ping', UserController.ping)
 
-
 export default routes
