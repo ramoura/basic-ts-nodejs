@@ -1,10 +1,10 @@
 {
-  "name": "basic-ts-nodejs",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/ramoura/basic-ts-nodejs.git",
   "author": "Renato Moura <renatomoura@gmail.com>",
   "license": "MIT",
+  "main": "index.js",
+  "name": "basic-ts-nodejs",
+  "repository": "https://github.com/ramoura/basic-ts-nodejs.git",
+  "version": "1.0.0",
   "scripts": {
     "test": "jest --coverage && coveralls < __tests__/coverage/lcov.info",
     "dev": "nodemon src/server.ts --ignore __tests__",
