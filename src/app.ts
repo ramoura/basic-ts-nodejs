@@ -12,12 +12,12 @@ class App {
       this.routes()
     }
 
-    private middlewares () {
+    private middlewares (): void {
       this.express.use(express.json())
       this.express.use(cors())
     }
 
-    private routes () {
+    private routes (): void {
       this.express.use(routes)
     }
 }

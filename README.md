@@ -1,6 +1,5 @@
 # basic-ts-nodejs
 
-
 <h3 style="text-align: center">
   Projeto base para Node.js com TypeScript.
 </h3>
@@ -13,8 +12,7 @@
 </div>
 
 Projeto configurado com:
-- **[Jest](https://jestjs.io/)** -> Para testes e cobertura.
-- **[Express](https://expressjs.com/)** -> Para Rotas.
+  - **[Jest](https://jestjs.io/)** -> Para testes e cobertura.
+  - **[Express](https://expressjs.com/)** -> Para Rotas.
 
 <br>
-
