@@ -13,7 +13,7 @@
 </div>
 
 Projeto configurado com:
-- **[Jest](https://jestjs.io/)** -> Para testes e cobertura.
-- **[Express](https://expressjs.com/)** -> Para Rotas.
+-  **[Jest](https://jestjs.io/)** -> Para testes e cobertura.
+-  **[Express](https://expressjs.com/)** -> Para Rotas.
 
 <br>
