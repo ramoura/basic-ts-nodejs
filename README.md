@@ -17,4 +17,8 @@ Projeto configurado com:
 - **[Jest](https://jestjs.io/)** -> Para testes e cobertura.
 - **[Express](https://expressjs.com/)** -> Para Rotas.
 
+E para completar :
+-    Isso.
+-    Aquilo
+
 <br>
